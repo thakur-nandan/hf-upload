@@ -14,4 +14,4 @@ conda install -c conda-forge git-lfs
 
 ## Upload Dataset to HF Hub
 
-Sample Script: [upload_dataset.sh]()
+Sample Script: [upload_dataset.sh](https://github.com/thakur-nandan/hf-upload/blob/main/upload_dataset.sh)
